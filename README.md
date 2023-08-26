@@ -2,9 +2,12 @@
 This Repository for git Practise 
 Author - Dipesh Pathak
 
+
 Configguring git 
+
   --   git config --global user.name "My Name"
-  --   git config --global user.email my@email.com
+
+  --   git config --global user.email "someone@email.com"
 
   clone & status 
   $ git clone  --   cloning a repository on our local machine.
@@ -39,6 +42,7 @@ Configguring git
 
 
 
+
       {
         In Termianl
         mkdir:-
@@ -47,4 +51,4 @@ Configguring git
             Use the mkdir command to create one or more directories specified by the Directory parameter
 
         cd - Change Directory
-      }          
+ 
