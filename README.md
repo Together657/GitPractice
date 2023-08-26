@@ -24,3 +24,27 @@ Configguring git
     
      command:-   git commit-m "some message"
           
+
+   Push Command :-
+     push - Command local repo content to remote repo
+     --     git push origin main
+
+
+      Init Command 
+          
+          init - used to create a new git repo
+            -- git init
+    
+
+
+
+
+      {
+        In Termianl
+        mkdir:-
+           Just type- "mkdir <dir name>
+
+            Use the mkdir command to create one or more directories specified by the Directory parameter
+
+        cd - Change Directory
+      }          
